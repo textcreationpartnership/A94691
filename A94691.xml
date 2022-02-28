@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority of England, the Commons in Parliament assembled. The humble petition of many free-born people. Together with a copy of the order of the commitment of five of the petitioners, viz. Mr. Thomas Prince and Mr. Samuel Chidley in the Gate-House. Capt. Tayler, Mr. William Larner, and Mr. Ives in Newgate. As also some observations upon the said order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94691</idno>
+            <idno type="STC">Wing T1726</idno>
+            <idno type="STC">Thomason 669.f.11[98]</idno>
+            <idno type="STC">ESTC R26322</idno>
+            <idno type="EEBO-CITATION">99872123</idno>
+            <idno type="PROQUEST">99872123</idno>
+            <idno type="VID">162750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162750)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[98])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority of England, the Commons in Parliament assembled. The humble petition of many free-born people. Together with a copy of the order of the commitment of five of the petitioners, viz. Mr. Thomas Prince and Mr. Samuel Chidley in the Gate-House. Capt. Tayler, Mr. William Larner, and Mr. Ives in Newgate. As also some observations upon the said order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Variant: line three of title ends "Larnar,".</note>
+                  <note>Annotation on Thomason copy: "Nou: 25 1647".</note>
+                  <note>Reproductions of the originals in the Harvard University Library (Early English books) and in the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chidley, Samuel --  Early works to 1800.</term>
+               <term>Larner, William --  Early works to 1800.</term>
+               <term>Prince, Thomas --  Early works to 1800.</term>
+               <term>Taylor, Thomas, fl. 1647 --  Early works to 1800.</term>
+               <term>Ives, Jeremy --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162750:1" rendition="simple:additions"/>
+            <head>To the Supream Authority of <hi>England,</hi> the <hi>Commons</hi> in <hi>Parliament</hi> aſſembled. The humble
+Petition of many free-born people. Together with a Copy of the Order of the Commitment of five of the
+Petitioners, <hi>viz. M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mas Prince,</hi> and Mr. <hi>Samuel Chidley</hi> in the Gate-Houſe. Capt. <hi>Tayler,</hi> Mr. <hi>William Larner,</hi>
+and Mr. <hi>Jves</hi> in Newgate. As alſo ſome Obſervations upon the ſaid Order.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat as the ground of the late war between the King and you, was a contention whether he or you ſhould exerciſe the ſupreame
+power over us, ſo its vain to expect a ſettlement of peace amongſt us, untill that point be clearely and juſtly determined, that
+there can be no liberty in any Nation where the Law giving power is not ſolely in the people or their Repreſentatives.</p>
+            <p>That upon your Invitation, the people have hazarded their lives, conſumed their eſtates, loſt their trades, and weltered in blood
+to preſerve that your juſt authority, and therein their own freedoms.</p>
+            <p>That notwithſtanding, for attributing the ſupream authority of this Nation to this Honourable Houſe, which alone repreſents
+the people, we have been accounted the off-ſcou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of the land, we have had our Petitions burned, our perſons impriſoned, and
+many o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her wayes abuſed.</p>
+            <p>That when the ears of the choſen deliverers were ſtopped, the Law of Nature enjoyned us to addreſſe our ſelves to the Army, from whom we had
+reaſon to expect relief, according to their many promiſes and engagements.</p>
+            <p>That thoſe promiſes ſeeming to be wholly forgotten by the ruling part of the Army; it pleaſed God to raiſe up the ſpirits of ſome Agents therein,
+to conſider of an agreement of the people upon grounds of common right; &amp; to offer it to the Generall Councell of the army for their concurrence; the
+matter wereof (ſeriouſly debate being had thereupon) was ſo far from being diſ-allowed, that a neceſſity of ending this Parliament at the day prefixed
+therein, wae concluded; the providing for a conſtant ſucceſſion of Parliaments thought neceſſary, that the people ſhould be more equally repreſented
+was confeſſed; and a certain rule to be ſet between the people and their repreſentative was judged fit, and the ſupream authority of this nation
+acknowledged by that Councell to be where the Agreement placeth it: And particularly Lievtenant General <hi>Cromwell,</hi> and Commiſſary General <hi>Jre<g ref="char:EOLhyphen"/>ton</hi>
+declared, that in caſe they did not Act for the ſettlement of thoſe freedoms, yet they would never oppoſe.</p>
+            <p>That thoſe Agents in further diſcharge of their duty to their Country; did not long ſince preſent unto this Honourable Houſe the ſaid Agree<g ref="char:EOLhyphen"/>ment,
+with a petition relating thereunto.</p>
+            <p>That the ſame Agreement, with another Petition, was lately offered to the Generall, by a worthy Commander, and divers Officers of the Army, at
+the firſt generall Rendezvouz neare Ware: and all that was done in a further proſecution, was a peaceable propoſing of the ſame Petition, to the
+Souldiery, for their concurrence: and we wonder that we ſhould now be reputed mutinous, to offer a Petition to the Souldiery when it was eſteemed
+formerly good ſervice to draw them to an ingagement.</p>
+            <p>That notwithſtanding all this clear open and legal dealing, in thoſe our friends, for the performance of their ſolemne ingagements, both they and
+we, who adhered to them, are reproached and ſlandered with imputations of plotting and deſigning not only the Kings death, in a baſe murderous
+way; and of imbru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the nation in blood, but of ſtrange endeavours to levell all mens eſtates, and ſubvert all Government and although the ſcan<g ref="char:EOLhyphen"/>dals
+are but the ſame which the open enemies formerly caſt upon your ſelves, yet our juſt endeavours for freedom, are ſo ill reſented by this meanes,
+that ſome of us are impriſoned, and others threatned to be proc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eded againſt as perſons diſaffected to this Honourable Houſe, whereas the true ob<g ref="char:EOLhyphen"/>ject
+of our enemies mallice is, that authorit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of yours, which we labour to preſerve. Yet ſuch is our ſad condition, as our actions and intentions are
+in like manner miſ-apprehended by you, though we doubt not but the Agreement duly weighed, will demonſtrate all ſuch reproaches to be only the
+invention of wicked men to ex<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſperate you againſt us.</p>
+            <p>And therefore we beſeech you in your bowells of compaſſion to an oppreſſed people, to review and debate impartially the particulars of that A<g ref="char:EOLhyphen"/>greement
+of the people, wherein many thouſands have already concurred: And to ſuffer us by your countenance, to uſe our Native Liberty, in mo<g ref="char:EOLhyphen"/>ving
+the people for an happie union amongſt themſelves, in ſetling thoſe foundations of Common freedom; that thereby this honourable houſe, may
+with more aſſurance of the peoples aſſiſtance, proceed forthwith (without attending for the aſſent and concurrence of any other) to deliver them
+from all kind of tyranny and oppreſſion.</p>
+            <p>And that you would be pleaſed to account of the ſufferings of our dear fellow Commoners Co. <hi>Ayers,</hi> Ca. <hi>Bray,</hi> and others at the ſeverall Rendez<g ref="char:EOLhyphen"/>vouz
+of the Army, only for their juſt and peaceable perſuance of Freedome.</p>
+            <p>And eſpecially that you will make inquiſition for the blood of that Soldier, <hi>viz. Richard Arnall</hi> of Col. <hi>Lilburns</hi> Regiment, which was ſhot to death
+neere Ware.</p>
+            <p>And we further deſire, that without prejudice againſt our perſons, it might be laid to heart, that the large effuſion of blood, and the many ſpoyles
+made in the late War, cannot be juſtified upon any othe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ground, then the ſettlement of thoſe freedoms contained in the Agreement, and in your juſt
+indeavours to clear and ſecure thoſe you may expect the bleſſing of peace and proſperity,</p>
+            <closer>And your petitioners ſhall pray.</closer>
+         </div>
+         <div type="order">
+            <div type="part">
+               <opener>
+                  <dateline> 
+                     <date>Die Martis. November, 1647.</date>
+                  </dateline>
+               </opener>
+               <p>Reſolved, that <hi>Thomas Prince,</hi> Cheeſemonger, and <hi>Samuel Chi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ey</hi> be forthwith committed priſoners to the priſon of the Gate-houſe, there to remain priſoners
+during the pleaſure of this Houſe, for ſeditious and contemptuous avowing and proſecuting of a former Petition and paper annexed, ſtiled an agreement of the people,
+formerly adiudged by this houſe, to be diſtructive to the being of Parliaments, and fundamentall government of this kingdom.</p>
+               <closer>
+                  <signed>Hen. El. Cl. Par. Dom. Com.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>By vertue of an Order of the Houſe of Commons, theſe are to require you to receive from the Sergeant at armes his deputie or deputies, the bodies of <hi>Thomas
+Prince,</hi> Cheeſe monger, and <hi>Samuel Chidley</hi> into the priſon of the Gate houſe Weſtminſter, and them ſafely to detain as your priſoners, untill the pleaſure of the
+houſe be ſignified to you to the contrary, and for ſo doing this ſhall be your Warrant.</p>
+               <closer>
+                  <signed>William Lenthall, Speaker.</signed>
+                  <dateline>Dated <date>23. Novemb. 1647.</date>
+                  </dateline>
+               </closer>
+               <trailer>To the Keeper of the priſon of the <hi>Gate houſe of Weſtminſter.</hi>
+               </trailer>
+            </div>
+         </div>
+         <div type="observations">
+            <p>O men of England that love your freedom<g ref="char:punc">▪</g> I beſeech you obſerve the injuſtice, arbitraryneſſe, and tyranny of this your Parliament, who have invited you,
+and cauſed your deare friends to expend their blood upon pretences to deliver you from injuſtice and arbitrary powers. <hi>S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their Rmon. of May</hi> 26. 1642.</p>
+            <p>1. Obſerve their palpable iniuſtice in ſtiling an humble, rationall and iuſt petition (preſented in a peaceble manner) a ſeditous and contemptuous, avowing
+a former petition, theſe men declared formerly, that they ought to receive petitions, though againſt things eſtabliſhed by law, and now when a petition ſtriks
+at their corrupt intereſt, its ſeditious becauſe its againſt a vote of theirs, and what damnable endeavours here are to deceive you Commons, they repreſent theſe
+mens petition as a contempt of them when they rendred them the higheſt honour in their petition.</p>
+            <p>2 Obſerve their iniuſtice in committing theſe your brethren without laying any crime to their charge, by the law, ſedition nor faction is no crime, for no man
+knows what is ſedition or faction, but they put unknown reproachfull tearms upon their juſt petition to deceive you, and let me informe you, that theſe trea<g ref="char:EOLhyphen"/>cherous
+diſſemblers that put theſe infamous tearms upon the petition, durſt not ſuffer this petition to be printed with their votes concerning it, for when they
+ordered the votes ſhould be printed, an honeſt member moved that the pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition it ſelfe might be printed with them, that the people might ſee the reaſon of
+ſuch votes, and theſe Hypocrites oppoſed it with rage and fury, will ye be alwayes thus abuſed O yee Commmons.</p>
+            <p>3. Obſerve the falſhood and lyes in their vote. Firſt, theſe petitioners did not avow any former petition or paper annexed, as this vote ſay they did. 2ly. The
+Houſe did never adiudge the Agreement to be diſtructive to the being of Parliaments, &amp;c. but only the petition of the Agents of the Army, they never durſt
+debate the Agreement, leſt they ſhould be forced by the ſtrength of reaſon to conſent to it, they ſhut their eyes and will not ſee, for many of the greateſt oppo<g ref="char:EOLhyphen"/>ſers
+have confeſſed its iuſt, <hi>but they love not the light becauſe their deeds are evill.</hi> But ſeeing it was never<g ref="char:punc">▪</g> debated in one particular, could a iudgement be paſſed up<g ref="char:EOLhyphen"/>on
+it, and have you not a wiſe, faithfull Parliament, that would not debate the particulars of ſuch great concernment to ſettle a peace.</p>
+            <p>4. Obſerve how theſe men exerciſe an abſolute tyranny over you, ruling by their crooked wills, and damnable luſts, they commit your fellow Commoners
+to priſons amongſt Theeves and Murtherers, only for begging for their fredoms, and this during their pleaſure, that is, till their baſe malicious humors be ſa<g ref="char:EOLhyphen"/>tisfied.
+According to law and iuſtice, impriſonment is only for ſafe cuſtody of perſons, untill the appointed day of tryall in the ordinary Courts of iuſtice, and it
+was the Councell table and High Commiſſion that ruled by their luſts, which impriſoned men during their pleaſure, and yet theſe Apoſtates dare in the face of
+the ſun proclaime their wickedneſſe and a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bitrarineſſe, by committing men during their luſt. Certainly their conſciences tell them that theſe faithfull, honeſt
+petitioner did not offend, for if they had known any offence, they would have been ready to have proceeded againſt them, or reſerved them for tryall which
+they intend not. O yee Commons of England! can you ſtill beare it? to ſee your freedomes undermined, and your brethren abuſed, and preſidents made
+daily for inſlaving you to the wills and luſts of tyrants, when will you ſhew yourſelves Engliſh men? O now! now is the opportunity. O! that you might ſee
+even in this your dayes the things that belong to your peace and freedom, before they be hid from your eyes.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
